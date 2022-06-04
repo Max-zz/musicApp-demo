@@ -1,24 +1,5 @@
-# music-app
+## 本应用基于“NeteaseCloudMusicApi-4.6.2” 
 
-## Project setup
-```
-yarn install
-```
+该代理地址为localhost：3000
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+跟随黑马课程编写
